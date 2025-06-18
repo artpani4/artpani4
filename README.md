@@ -17,6 +17,8 @@ Backend / системный разработчик (Deno, TypeScript, Python, R
 
 ---
 <!-- BLOG-POST-LIST:START -->
+- [Tuner — гибкий конфигуратор проекта as code для Deno](https://habr.com/ru/articles/829212/?utm_campaign=829212&utm_source=habrahabr&utm_medium=rss)
+- [Как сделать TG Instant View из страницы Notion](https://habr.com/ru/articles/791070/?utm_campaign=791070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 ---
 
