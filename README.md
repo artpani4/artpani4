@@ -16,6 +16,7 @@ Backend / системный разработчик (Deno, TypeScript, Python, R
 ![GitHub Streak](https://streak-stats.demolab.com?user=vseplet&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
+### 📝 Мои статьи на Хабре
 <!-- BLOG-POST-LIST:START -->
 - [Tuner — гибкий конфигуратор проекта as code для Deno](https://habr.com/ru/articles/829212/?utm_campaign=829212&utm_source=habrahabr&utm_medium=rss)
 - [Как сделать TG Instant View из страницы Notion](https://habr.com/ru/articles/791070/?utm_campaign=791070&utm_source=habrahabr&utm_medium=rss)
