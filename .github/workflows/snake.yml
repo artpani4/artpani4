@@ -3,7 +3,7 @@ name: Generate snake animation
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   generate:
