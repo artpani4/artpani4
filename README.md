@@ -13,7 +13,7 @@ Backend / системный разработчик (Deno, TypeScript, Python, R
 
 ### 📈 GitHub Статистика
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vseplet&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=artpani&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 ### 📝 Мои последние статьи на Хабре
